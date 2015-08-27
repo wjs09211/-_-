@@ -1,0 +1,15 @@
+﻿已經開始建置於 2014/12/22 上午 12:49:17。
+     1>節點 2 (Build 目標) 上的專案 "D:\Visual Studio 2012\program 2012\1021527_wnd_hw6_2\1021527_wnd_hw6_2.vcxproj"。
+     1>ClCompile:
+         D:\Visual Studio 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+       Link:
+         D:\Visual Studio 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Visual Studio 2012\program 2012\1021527_wnd_hw6_2\Debug\1021527_wnd_hw6_2.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Visual Studio 2012\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Visual Studio 2012\program 2012\1021527_wnd_hw6_2\Debug\1021527_wnd_hw6_2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Visual Studio 2012\program 2012\1021527_wnd_hw6_2\Debug\1021527_wnd_hw6_2.lib" /MACHINE:X86 Debug\1021527_wnd_hw6_2.res
+         Debug\Source.obj
+         1021527_wnd_hw6_2.vcxproj -> D:\Visual Studio 2012\program 2012\1021527_wnd_hw6_2\Debug\1021527_wnd_hw6_2.exe
+     1>專案 "D:\Visual Studio 2012\program 2012\1021527_wnd_hw6_2\1021527_wnd_hw6_2.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:02.32
